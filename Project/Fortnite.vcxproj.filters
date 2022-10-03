@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Modules\GUI\imgui.cpp">
+      <Filter>Modules\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Modules\GUI\imgui_demo.cpp">
+      <Filter>Modules\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Modules\GUI\imgui_draw.cpp">
+      <Filter>Modules\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Modules\GUI\imgui_impl_dx9.cpp">
+      <Filter>Modules\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Modules\GUI\imgui_impl_win32.cpp">
+      <Filter>Modules\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Modules\GUI\imgui_tables.cpp">
+      <Filter>Modules\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Modules\GUI\imgui_widgets.cpp">
+      <Filter>Modules\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Modules\Mouse\BezierCurve.cpp">
+      <Filter>Modules\Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="Modules\Mouse\Normal.cpp">
+      <Filter>Modules\Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="Modules\Mouse\RunMouse.cpp">
+      <Filter>Modules\Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Includes.h" />
+    <ClInclude Include="Modules\FNDetector.h">
+      <Filter>Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\FNInterface.h">
+      <Filter>Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\FNReversal.h">
+      <Filter>Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\FNUtilities.h">
+      <Filter>Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\GUI\imgui.h">
+      <Filter>Modules\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\GUI\imgui_impl_dx9.h">
+      <Filter>Modules\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\GUI\imgui_impl_win32.h">
+      <Filter>Modules\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\GUI\imgui_internal.h">
+      <Filter>Modules\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\GUI\imstb_rectpack.h">
+      <Filter>Modules\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\GUI\imstb_textedit.h">
+      <Filter>Modules\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\GUI\imstb_truetype.h">
+      <Filter>Modules\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\FNSettings.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\Definitions.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\TypeDefinitions.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\FNXor.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\Includes\IncludeImGui.h">
+      <Filter>Utilities\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\Includes\IncludeOpenCV.h">
+      <Filter>Utilities\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Resources\resource.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\Mouse\BezierCurve.h">
+      <Filter>Modules\Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\Mouse\Normal.h">
+      <Filter>Modules\Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\Mouse\RunMouse.h">
+      <Filter>Modules\Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules\GUI\Fonts\FNEmbeddedFonts.h">
+      <Filter>Modules\GUI\Fonts</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Modules">
+      <UniqueIdentifier>{ad2c198e-b67a-467b-896e-af8ef5c789d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{8c7b5aa1-1d36-4a55-bf9f-025d4a5267d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Auth">
+      <UniqueIdentifier>{cb234374-80f3-4bf3-9fe4-96e24ad3a5b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Discord">
+      <UniqueIdentifier>{a32ec9ec-6857-4550-8aff-56f739d89506}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\GUI">
+      <UniqueIdentifier>{5925e75a-437b-4775-9c57-3ea46aa74800}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Discord\RapidJSON">
+      <UniqueIdentifier>{ddd8d19f-7a00-43d8-9c6c-1663ce400bfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Discord\RapidJSON\Error">
+      <UniqueIdentifier>{f514ab4b-7d76-4818-af83-0b3f75016508}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Discord\RapidJSON\Internal">
+      <UniqueIdentifier>{e20a210b-5531-4bdf-843d-b8af632987b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Discord\RapidJSON\MSIntTypes">
+      <UniqueIdentifier>{11789d23-e8bd-4677-b21b-3656fc479e34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities\Include">
+      <UniqueIdentifier>{1f6fa270-ce2f-4dae-b8cd-6d28a4bd20fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{acdcca87-29d3-4677-9cd4-84de001ac144}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Mouse">
+      <UniqueIdentifier>{aeefe687-8674-4c30-9a23-82a952fcbdd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\GUI\Fonts">
+      <UniqueIdentifier>{c6b45f09-541f-4472-b8d4-5a22696eaed6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resources\Resource.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Network.cfg" />
+    <None Include="Network.weights" />
+  </ItemGroup>
+</Project>

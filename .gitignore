@@ -1,0 +1,10 @@
+# vs/vscode garbage
+.vs
+.vscode
+
+# Binaries
+Build
+
+# Misc/Other
+Project/Fortnite.vcxproj.user
+Project/imgui.ini
