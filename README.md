@@ -15,7 +15,7 @@ As with any cheat, nothing is completely undetectable. **I do NOT recommend down
 
 3. At this point, if the build succeeds, your output files will be in the `Build` folder (next to the `Project` folder). You should see the files `<yourcheat>.exe`, `Network.cfg`, and `Network.weights`.
 
-4. Download the Nvidia cuDNN and OpenCV dependencies bundle from [here](https://mega.nz/file/q4hk2STD#cGJ8IyHvlPCAAzm9x14C2Wtb-wDdnGaU1VTTvum1CeU). Extract this archive and place all of the DLLs into the same folder as your `<yourcheat>.exe` executable.
+4. Download the NVIDIA cuDNN and OpenCV dependencies bundle from [here](https://mega.nz/file/q4hk2STD#cGJ8IyHvlPCAAzm9x14C2Wtb-wDdnGaU1VTTvum1CeU). Extract this archive and place all of the DLLs into the same folder as your `<yourcheat>.exe` executable.
 
 5. Run the `<yourcheat>.exe` executable. I shouldn't have to tell you this.
 
@@ -28,3 +28,7 @@ As with any cheat, nothing is completely undetectable. **I do NOT recommend down
     - This cheat's version of [OpenCV](https://opencv.org/) was built for CUDA versions 6.1, 7.5, and 8.6. These vaguely correspond to the NVIDIA GeForce 10, 20, and 30-series releases. To see if your card is compatible with these versions, check [here](https://en.wikipedia.org/wiki/CUDA#GPUs_supported)
 - Does this work on AMD graphics cards or other graphics processors?
     - Maybe. The compatibility is a bit unknown, but it has worked on some Radeon cards and even Intel integrated graphics, sometimes.
+
+### **Troubleshooting**
+- The cheat starts, but it's a large pixelated window over Fortnite.
+    - This can happen sometimes on the first run. Close the executable using Task Manager and then restart it.

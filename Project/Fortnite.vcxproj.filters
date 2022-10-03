@@ -112,23 +112,8 @@
     <Filter Include="Modules\Auth">
       <UniqueIdentifier>{cb234374-80f3-4bf3-9fe4-96e24ad3a5b2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Modules\Discord">
-      <UniqueIdentifier>{a32ec9ec-6857-4550-8aff-56f739d89506}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Modules\GUI">
       <UniqueIdentifier>{5925e75a-437b-4775-9c57-3ea46aa74800}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Modules\Discord\RapidJSON">
-      <UniqueIdentifier>{ddd8d19f-7a00-43d8-9c6c-1663ce400bfb}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Modules\Discord\RapidJSON\Error">
-      <UniqueIdentifier>{f514ab4b-7d76-4818-af83-0b3f75016508}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Modules\Discord\RapidJSON\Internal">
-      <UniqueIdentifier>{e20a210b-5531-4bdf-843d-b8af632987b2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Modules\Discord\RapidJSON\MSIntTypes">
-      <UniqueIdentifier>{11789d23-e8bd-4677-b21b-3656fc479e34}</UniqueIdentifier>
     </Filter>
     <Filter Include="Utilities\Include">
       <UniqueIdentifier>{1f6fa270-ce2f-4dae-b8cd-6d28a4bd20fe}</UniqueIdentifier>
