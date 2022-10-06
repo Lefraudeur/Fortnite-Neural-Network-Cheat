@@ -1,7 +1,7 @@
 # AI (neural-network external) Fortnite Cheat
 
 ### **What is this?**
-This is a public release of a once-paid neural network aimbot for Fortnite: Battle Royale.
+This is a public release of a once-paid neural network aimbot for Fortnite: Battle Royale made by me.
 
 ### **Is it undetected and up-to-date?**
 As with any cheat, nothing is completely undetectable. **I do NOT recommend downloading the executable directly from the Releases page, as it has likely been detected already.** It is much safer to build the cheat yourself, which makes it unique and nearly undetectable.
