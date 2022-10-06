@@ -1,0 +1,3 @@
+https://mega.nz/file/q4hk2STD#cGJ8IyHvlPCAAzm9x14C2Wtb-wDdnGaU1VTTvum1CeU
+
+make sure you have downloaded these and put them inside the build folder with the exe
