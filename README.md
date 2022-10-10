@@ -1,6 +1,6 @@
 # AI (neural-network external) Fortnite Cheat
 
-### **Need Support??**
+### **Need Support?**
 Discord - https://discord.gg/cWSBmMQjRy | optic#0001
 
 ### **What is this?**
