@@ -1,7 +1,10 @@
 # AI (neural-network external) Fortnite Cheat
 
 ### **Need Support?**
-Discord - https://discord.gg/cWSBmMQjRy | optic#0001
+Discord - optic#0001
+
+### **Just want exe??**
+Discord - https://discord.gg/jx4quH8P5j
 
 ### **What is this?**
 This is a public release of a once-paid neural network aimbot for Fortnite: Battle Royale made by me.
